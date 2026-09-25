@@ -9,7 +9,7 @@ acompanhar minha evolução na área.
 
 ## 🧠 Projetos e experimentos
 
-### Inteligência Artificial e agentes a seguir
+### Inteligência Artificial e agentes a seguir!
 
 -   **Function Calling** --- experimentos com chamadas de funções por
     modelos de IA.
