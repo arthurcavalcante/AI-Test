@@ -24,4 +24,4 @@ def funcao_sem_parametros():
 parametros_encontrados = encontrar_parametros(codigo_exemplo)
 
 # Faz uma print dos parâmetros encontrados na função:
-print("Parâmetros encontrados:", parametros_encontrados)
+print("Parâmetros encontrados! ", parametros_encontrados)
