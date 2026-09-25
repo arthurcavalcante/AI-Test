@@ -1,4 +1,4 @@
-# Projetos Pessoais --- Testes de IA
+# Projetos Pessoais - Testes de IA e Machine Learning!
 
 Este repositório reúne meus projetos pessoais, exercícios e experimentos
 relacionados a **Inteligência Artificial**, **Machine Learning**,
